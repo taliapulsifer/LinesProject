@@ -42,6 +42,6 @@ function moveLines(){
   }
 }
 // use lerp between z and 0 to slowly stop rotating and they will slow down and do nothing
-// eventually.
+// eventually. :)
 
 
